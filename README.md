@@ -3,16 +3,16 @@
 ### Credentails:- 
 
 - Admin:- 
-  email:- amarjeetchoudhary647@gmail.com
-  password:- Manish@786
+  email:- battasaivamsi123@gmail.com
+  password:- vamsi@123
 
 - StoreOwner:- 
-  email:- amarjeetchoudhary6471@gmail.com
-  password:- Manish@786
+  email:- vamsi@gmail.com
+  password:- vamsi@321
 
 - User:- 
-  email:- amarjeetchoudhary64711@gmail.com
-  password:- Manish@786
+  email:- saivamsi123@gmail.com
+  password:- saivamsi123
 
 
 A comprehensive full-stack application for managing store ratings, user authentication, and administrative operations. Built with React, Node.js, Express, and PostgreSQL.
